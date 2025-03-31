@@ -1,7 +1,7 @@
+__pycache__/
+*.pyc
 .env
 venv/
-__pycache__/
 cache/*.json
-.cache/
-*.pyc
+.DS_Store
 
